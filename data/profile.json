@@ -1,7 +1,7 @@
 {
   "name": "Victor Vargas",
   "photo": "https://avatars.githubusercontent.com/u/166422923?v=4",
-  "job": "Developer",
+  "job": "Desenvolvedor",
   "location": "Araraquara - SP",
   "phone": "(16) 99637-2805",
   "email": "victorgvargas18@gmail.com",
@@ -24,40 +24,40 @@
         "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
-        "name": "MySQL",
-        "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/mysql.png"
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
-      "Systems Analysis and Development - UNIP",
-      "Programming Logic - Fundação Bradesco",
+      "Análise e Desenvolvimento de Sistemas - UNIP",
+
+      "Lógica de Programação - Fundação Bradesco",
+
       "Bootcamp Avanade .NET Developer - DIO",
-      "JavaScript Developer Training - DIO",
-      "UX/UI Design - Origamid"
+
+      "Treinamento de Desenvolvedor JavaScript - DIO",
+
+      "Design UX/UI - Origamid"
     ]
   },
-  "languages": [
-    "Português BR",
-    "Inglês A1"
-  
-  ],
+  "languages": ["Português BR", "Inglês (Básico)"],
   "portfolio": [
     {
-      "name": "Urban Farm Management System",
+      "name": "Sistema de Gestão para Fazenda Urbana",
       "url": "https://github.com/Victor-Vargas1/API-GerenciamentoParaFazendaUniao.git",
       "github": true
     },
     {
-      "name": "Digital Menu for Burger Restaurant",
+      "name": "Cardápio Digital para Hambúrgueria",
       "url": "https://github.com/Victor-Vargas1/Projeto-Hamburgueria.git",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Quality inspector / JBT Marel",
-      "period": "Jan/2020 - currently",
-      "description": "Experience in the inspection and testing sector for items and equipment, analyzing certification and compliance with technical standards such as ASME, ASTM, and ANSI. During my Systems Analysis and Development studies, I developed ideas, flowcharts, and scopes, defining functional and non-functional requirements for systems and applications to optimize employees' time, increase productivity, and reduce process errors. Additionally, I used SQL to filter and analyze data, contributing to area control and management."
+      "name": "Inspetor de Qualidade / JBT Marel",
+      "period": "Jan/2020 - Atualmente",
+      "description": "Experiência no setor de inspeção e testes de itens e equipamentos, analisando certificações e conformidade com normas técnicas como ASME, ASTM e ANSI. Durante meus estudos em Análise e Desenvolvimento de Sistemas, desenvolvi ideias, fluxogramas e escopos, definindo requisitos funcionais e não funcionais para sistemas e aplicativos, com o objetivo de otimizar o tempo dos colaboradores, aumentar a produtividade e reduzir erros nos processos. Além disso, utilizei SQL para filtrar e analisar dados, contribuindo para o controle e gestão da área."
     }
   ]
 }
