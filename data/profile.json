@@ -1,0 +1,63 @@
+{
+  "name": "Victor Vargas",
+  "photo": "https://avatars.githubusercontent.com/u/166422923?v=4",
+  "job": "Desenvolvedor",
+  "location": "Araraquara - SP",
+  "phone": "(16) 99637-2805",
+  "email": "victorgvargas18@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Csharp",
+        "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/Victor-Vargas1/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Análise e Desenvolvimento de Sistemas - UNIP",
+
+      "Lógica de Programação - Fundação Bradesco",
+
+      "Bootcamp Avanade .NET Developer - DIO",
+
+      "Treinamento de Desenvolvedor JavaScript - DIO",
+
+      "Design UX/UI - Origamid"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (Básico)"],
+  "portfolio": [
+    {
+      "name": "Sistema de Gestão para Fazenda Urbana",
+      "url": "https://github.com/Victor-Vargas1/API-GerenciamentoParaFazendaUniao.git",
+      "github": true
+    },
+    {
+      "name": "Cardápio Digital para Hambúrgueria",
+      "url": "https://github.com/Victor-Vargas1/Projeto-Hamburgueria.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Inspetor de Qualidade / JBT Marel",
+      "period": "Jan/2020 - Atualmente",
+      "description": "Experiência no setor de inspeção e testes de itens e equipamentos, analisando certificações e conformidade com normas técnicas como ASME, ASTM e ANSI. Durante meus estudos em Análise e Desenvolvimento de Sistemas, desenvolvi ideias, fluxogramas e escopos, definindo requisitos funcionais e não funcionais para sistemas e aplicativos, com o objetivo de otimizar o tempo dos colaboradores, aumentar a produtividade e reduzir erros nos processos. Além disso, utilizei SQL para filtrar e analisar dados, contribuindo para o controle e gestão da área."
+    }
+  ]
+}
